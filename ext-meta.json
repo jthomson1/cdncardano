@@ -5,7 +5,7 @@
         "location": "Hamilton, Ontario, Canada",
         "social": {
             "twitter_handle": "",
-            "telegram_handle": "",
+            "telegram_handle": "https://t.me/cdncardano",
             "facebook_handle": "",
             "youtube_handle": "",
             "twitch_handle": "",
@@ -13,18 +13,18 @@
             "github_handle": ""
         },
         "company": {
-            "name": "",
+            "name": "CDNC",
             "addr": "",
             "city": "Hamilton",
             "country": "Canada",
             "company_id": ""
         },
         "about": {
-            "me": "",
+            "me": "We're a team of experienced and dedicated IT professionals who are exited to help decentralize and secure the Cardano Network.",
             "server": "Enterprise Class Large AWS Instances with redundant fail-safe distributed relays in Canada.",
             "company": "..."
         },
-        "rss": "http(s) url to valid RSS feed"
+        "rss": ""
     },
     "my-pool-ids": {
         "0": ""
